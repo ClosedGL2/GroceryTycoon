@@ -1,8 +1,14 @@
 # Things to Add to Grocery Tycoon
 
+2/35
+
+Percentage completed: 6%
+
 ## Game Mechanics and code
 
-- [ ] Rewrite the whole fucking thing in Rust
+- [X] Camera zoom
+- [X] Camera rotation
+- [ ] Rewrite the whole thing in Rust
 - [ ] Detect tile mouse is on
 - [ ] Write to save file
 - [ ] GUI
