@@ -2,8 +2,7 @@
 
 ## Walmart Mode
 If store name is or starts with "Walmart", there is a higher chance of Karens
-and weird customers coming to the store. This was inspired by r/peopleofwalmart
-on Reddit.
+and weird customers coming to the store.
 
 ## GNU/Linux
 If playing on Linux, every 50th customer will be named Linus T. or Richard S.
