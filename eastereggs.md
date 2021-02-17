@@ -5,10 +5,6 @@ If store name is or starts with "Walmart", there is a higher chance of Karens
 and weird customers coming to the store. This was inspired by r/peopleofwalmart
 on Reddit.
 
-## Windows is unstable
-If playing on Windows, there is a little higher chance that the point of sale
-machines will break down.
-
 ## GNU/Linux
 If playing on Linux, every 50th customer will be named Linus T. or Richard S.
 after Linus Torvalds and Richard Stallman.
@@ -51,10 +47,3 @@ If a customer is picked up by the player and dropped on a tile outside the store
 floor, they will fall into the void below. After falling at least 64 units, the
 customer will start losing 4 out of 20 health every 0.5 seconds until they die,
 just like in Minecraft. The store rating drops when a customer dies.
-
-## Block 3074
-If the store name contains "Block 3074", audio from customers will not play,
-and a random customer will think "You can't even hear me. I'm just talking into
-the void."
-
-This is inspired by the Xbox using network port 3074 for voice chat.

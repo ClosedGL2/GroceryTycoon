@@ -37,10 +37,8 @@ Percentage completed: 6%
 ## Easter Eggs
 
 - [ ] Walmart Mode
-- [ ] Windows is unstable
 - [ ] GNU/Linux
 - [ ] BSD Beastie
 - [ ] Meta Runner characters
 - [ ] VADIM BLYAT
 - [ ] Falling into the void
-- [ ] Block 3074
